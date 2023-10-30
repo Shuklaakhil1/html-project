@@ -1,0 +1,36 @@
+body
+    {
+         background-color : black;
+      }
+      h1{
+         text-transform : uppercase;
+         text-size : 3rem;
+      }
+      .motive{
+             width : 50%;
+             margin-left : 25%;
+             margin-top : 100px;
+             color : white;
+             font-family : Agbalumo;
+      }
+      .morning{
+              width : 50%;
+             margin-left : 25%;
+             margin-top : 100px;
+             color : white;
+             font-family : Edu TAS Beginner;
+      }
+      .busy{
+              width : 50%;
+             margin-left : 25%;
+             margin-top : 100px;
+             color : white;
+             font-family : Alumni Sans Collegiate One;
+      }
+      .night{
+              width : 50%;
+             margin-left : 25%;
+             margin-top : 100px;
+             color : white;
+             font-family : Dancing Script;
+      }
